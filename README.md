@@ -74,7 +74,7 @@
 
 - 🥇 AMD AI Sprint Winner (IIT Bombay)
 - 🤗 Meta + HuggingFace Hackathon Winner
-- 🏆 3x Hackathon Champion
+- 🏆 10x Hackathon Champion
 - 🚀 4x Global Hackathon Runner Up
 
 ---
