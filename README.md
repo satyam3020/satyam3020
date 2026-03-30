@@ -11,7 +11,7 @@
 
 - 🏆 Winner @ AMD AI Sprint IITB'25  
 - 🤗 Meta & HuggingFace Hackathon Winner  
-- 🏆 3X Hackathon Winner  
+- 🏆 10X Hackathon Winner  
 - 🚀 4X Global Hackathon Runner Up  
 - 💻 Full Stack Developer (MERN + Python)  
 - 🔐 Interested in AI, Cyber Security & Blockchain  
